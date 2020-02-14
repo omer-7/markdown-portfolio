@@ -1,2 +1,3 @@
 Replace this with a list of your favorite things.
-:+1:
+- list1
+- list2
